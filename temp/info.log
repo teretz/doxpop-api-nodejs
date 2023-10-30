@@ -1,0 +1,109 @@
+{"level":"info","message":"Starting input_csv.js script","service":"user-service"}
+{"level":"info","message":"input_csv.js script completed","service":"user-service"}
+{"level":"info","message":"Starting input_csv.js script","service":"user-service"}
+{"level":"info","message":"input_csv.js script completed","service":"user-service"}
+{"level":"info","message":"Starting input_csv.js script","service":"user-service"}
+{"level":"info","message":"Reading Excel file","service":"user-service"}
+{"level":"info","message":"Excel file read successfully","service":"user-service"}
+{"level":"info","message":"Writing to Excel file","service":"user-service"}
+{"level":"info","message":"Excel file written successfully","service":"user-service"}
+{"level":"info","message":"input_csv.js script completed","service":"user-service"}
+{"level":"info","message":"Starting input_csv.js script","service":"user-service"}
+{"level":"info","message":"Reading Excel file","service":"user-service"}
+{"level":"info","message":"Excel file read successfully","service":"user-service"}
+{"level":"info","message":"Writing to Excel file","service":"user-service"}
+{"level":"info","message":"Excel file written successfully","service":"user-service"}
+{"level":"info","message":"Writing to CSV file","service":"user-service"}
+{"level":"info","message":"CSV file written successfully","service":"user-service"}
+{"level":"info","message":"input_csv.js script completed","service":"user-service"}
+{"level":"info","message":"Starting input_csv.js script","service":"user-service"}
+{"level":"info","message":"Reading Excel file","service":"user-service"}
+{"level":"info","message":"Excel file read successfully","service":"user-service"}
+{"level":"info","message":"Writing to Excel file","service":"user-service"}
+{"level":"info","message":"Excel file written successfully","service":"user-service"}
+{"level":"info","message":"Writing to CSV file","service":"user-service"}
+{"level":"info","message":"CSV file written successfully","service":"user-service"}
+{"level":"info","message":"input_csv.js script completed","service":"user-service"}
+{"level":"info","message":"Starting input_csv.js script","service":"user-service"}
+{"level":"info","message":"Reading Excel file","service":"user-service"}
+{"level":"info","message":"Excel file read successfully. Processed 4 records.","service":"user-service"}
+{"level":"info","message":"Writing to Excel file","service":"user-service"}
+{"level":"info","message":"Excel file written successfully. Wrote 4 records.","service":"user-service"}
+{"level":"info","message":"Writing to CSV file","service":"user-service"}
+{"level":"info","message":"CSV file written successfully. Wrote 4 records.","service":"user-service"}
+{"level":"info","message":"input_csv.js script completed","service":"user-service"}
+{"level":"info","message":"Starting input_csv.js script","service":"user-service"}
+{"level":"info","message":"Reading Excel file","service":"user-service"}
+{"level":"info","message":"Excel file read successfully. Found 4 records in the input file.","service":"user-service"}
+{"level":"info","message":"Writing to Excel file","service":"user-service"}
+{"level":"info","message":"Excel file written successfully. Wrote 4 records.","service":"user-service"}
+{"level":"info","message":"Writing to CSV file","service":"user-service"}
+{"level":"info","message":"CSV file written successfully. Wrote 4 records.","service":"user-service"}
+{"level":"info","message":"input_csv.js script completed","service":"user-service"}
+{"level":"info","message":"Starting input_csv.js script","service":"user-service"}
+{"level":"info","message":"Reading Excel file","service":"user-service"}
+{"level":"info","message":"Excel file read successfully. Found 4 records in the input file.","service":"user-service"}
+{"level":"info","message":"Writing to Excel file","service":"user-service"}
+{"level":"info","message":"Excel file written successfully. Wrote 4 records.","service":"user-service"}
+{"level":"info","message":"Writing to CSV file","service":"user-service"}
+{"level":"info","message":"CSV file written successfully. Wrote 4 records.","service":"user-service"}
+{"level":"info","message":"input_csv.js script completed","service":"user-service"}
+{"level":"info","message":"Successfully processed 0 records.","service":"user-service"}
+{"level":"info","message":"Successfully wrote 0 records to Excel.","service":"user-service"}
+{"level":"info","message":"Found 4 records in the input file.","service":"user-service"}
+{"level":"info","message":"Successfully processed 0 records.","service":"user-service"}
+{"level":"info","message":"Successfully wrote 0 records to Excel.","service":"user-service"}
+{"level":"info","message":"Found 14 records in the input file.","service":"user-service"}
+2023-10-27 06:56:08 [info]: Found 14 records in the input file.
+2023-10-27 06:56:08 [info]: Successfully wrote record for _Text to CSV.
+2023-10-27 06:56:08 [info]: Successfully wrote record for _Text to Excel.
+2023-10-27 06:56:08 [info]: Successfully wrote record for 49C01-2310-RS-009241 to CSV.
+2023-10-27 06:56:08 [info]: Successfully wrote record for 49C01-2310-RS-009241 to Excel.
+2023-10-27 06:56:08 [info]: Successfully wrote record for 49D10-2310-DC-009242 to CSV.
+2023-10-27 06:56:08 [info]: Successfully wrote record for 49D10-2310-DC-009242 to Excel.
+2023-10-27 06:56:08 [info]: Successfully wrote record for 49C01-2310-MI-041942 to CSV.
+2023-10-27 06:56:08 [info]: Successfully wrote record for 49C01-2310-MI-041942 to Excel.
+2023-10-27 06:56:08 [info]: Successfully wrote record for 49K05-2310-SC-002699 to CSV.
+2023-10-27 06:56:08 [info]: Successfully wrote record for 49K05-2310-SC-002699 to Excel.
+2023-10-27 06:56:08 [info]: Successfully wrote record for 49D25-2310-OV-035329 to CSV.
+2023-10-27 06:56:08 [info]: Successfully wrote record for 49D25-2310-OV-035329 to Excel.
+2023-10-27 06:56:08 [info]: Successfully wrote record for 49D28-2310-F2-030194 to CSV.
+2023-10-27 06:56:08 [info]: Successfully wrote record for 49D28-2310-F2-030194 to Excel.
+2023-10-27 06:56:08 [info]: Successfully wrote record for 49D33-2310-F6-030195 to CSV.
+2023-10-27 06:56:08 [info]: Successfully wrote record for 49D33-2310-F6-030195 to Excel.
+2023-10-27 06:56:08 [info]: Successfully wrote record for 49D01-2310-MI-041943 to CSV.
+2023-10-27 06:56:08 [info]: Successfully wrote record for 49D01-2310-MI-041943 to Excel.
+2023-10-27 06:56:08 [info]: Successfully wrote record for 49D12-2310-CT-041945 to CSV.
+2023-10-27 06:56:08 [info]: Successfully wrote record for 49D12-2310-CT-041945 to Excel.
+2023-10-27 06:56:08 [info]: Successfully wrote record for 49K08-2310-EV-004954 to CSV.
+2023-10-27 06:56:08 [info]: Successfully wrote record for 49K08-2310-EV-004954 to Excel.
+2023-10-27 06:56:08 [info]: Successfully wrote record for 49D03-2310-EV-041946 to CSV.
+2023-10-27 06:56:08 [info]: Successfully wrote record for 49D03-2310-EV-041946 to Excel.
+2023-10-27 06:56:08 [info]: Successfully wrote record for 49D13-2310-CC-041947 to CSV.
+2023-10-27 06:56:08 [info]: Successfully wrote record for 49D13-2310-CC-041947 to Excel.
+2023-10-27 06:56:08 [info]: Successfully wrote record for 49D01-2310-EV-041948 to CSV.
+2023-10-27 06:56:08 [info]: Successfully wrote record for 49D01-2310-EV-041948 to Excel.
+2023-10-27 06:56:08 [info]: Successfully wrote 14 records to Excel.
+2023-10-27 06:56:08 [info]: Successfully processed 14 records.
+2023-10-27 15:38:49 [info]: Reading data from input.xlsx
+2023-10-27 15:38:49 [info]: Found 13 records in the input file.
+2023-10-27 15:38:49 [info]: Processing case number 
+2023-10-27 15:38:49 [error]: Request failed with status code 401
+2023-10-27 15:41:30 [info]: Reading data from input.xlsx
+2023-10-27 15:41:30 [info]: Found 13 records in the input file.
+2023-10-27 15:41:30 [error]: Case number is undefined.
+2023-10-27 15:41:30 [error]: Case number is undefined.
+2023-10-27 15:41:30 [error]: Case number is undefined.
+2023-10-27 15:41:30 [error]: Case number is undefined.
+2023-10-27 15:41:30 [error]: Case number is undefined.
+2023-10-27 15:41:30 [error]: Case number is undefined.
+2023-10-27 15:41:30 [error]: Case number is undefined.
+2023-10-27 15:41:30 [error]: Case number is undefined.
+2023-10-27 15:41:30 [error]: Case number is undefined.
+2023-10-27 15:41:30 [error]: Case number is undefined.
+2023-10-27 15:41:30 [error]: Case number is undefined.
+2023-10-27 15:41:30 [error]: Case number is undefined.
+2023-10-27 15:41:30 [error]: Case number is undefined.
+2023-10-27 15:41:30 [info]: Successfully processed 0 records.
+2023-10-27 15:48:48 [info]: Found 13 records in the input file.
+2023-10-27 16:01:07 [info]: Found 13 records in the input file.

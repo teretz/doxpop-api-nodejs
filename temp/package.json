@@ -1,0 +1,20 @@
+{
+  "name": "doxpop-api-nodejs",
+  "version": "1.0.0",
+  "description": "Node.js API for Doxpop",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "csv-writer": "^1.6.0",
+    "dotenv": "^16.3.1",
+    "exceljs": "^4.4.0",
+    "express": "^4.17.1",
+    "node-fetch": "^3.1.0",
+    "pm2": "^5.3.0",
+    "winston": "^3.11.0",
+    "xlsx": "^0.18.5"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "doxpop-api-nodejs",
+  "version": "1.0.0",
+  "description": "A Node.js project for interacting with Doxpop API",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "exceljs": "^4.2.1",
+    "multer": "^1.4.5-lts.1",
+    "winston": "^3.11.0",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
